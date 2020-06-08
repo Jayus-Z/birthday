@@ -29,9 +29,9 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "准备好了么~",
-        play: "开始",
-        bannar_coming: "音乐！起~",
+        turn_on: "开始",
+        play: "音乐！起~",
+        bannar_coming: "Happy Birthday",
         balloons_flying: "好像少点东西~",
         cake_fadein: "生日怎么能没有蛋糕？",
         light_candle: "蜡烛？",
